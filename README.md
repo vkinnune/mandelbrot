@@ -9,4 +9,4 @@ control colors with q and w
 
 control iterations with + and - in numpad
 
-https://raw.githubusercontent.com/vkinnune/mandelbrot/main/pic-full-220213-1716-07.png for pic
+![pic-full-220213-1716-07](https://user-images.githubusercontent.com/96283427/157067374-599b70bb-349f-43d5-855c-a5ffcdeda8c0.png)
